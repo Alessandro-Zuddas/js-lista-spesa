@@ -7,3 +7,11 @@
     margin: 0;
     padding: 0;
 }
+
+/*----------
+ COMMON 
+-----------*/
+
+.container{
+    text-align: center;
+}
